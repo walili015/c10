@@ -2,9 +2,11 @@
   "AdsController": {
     "adNetwork": "ironsource",
 	"isAppId": "19cd88085",
-    "admobInterstitial": "",
-    "AdmobNative": "",
-    "applovinInterstitial": "",
-    "ApplovinNative": ""
+    "admobBanner": "ca-app-pub-3940256099942544/6300978111",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+    "applovinBanner": "999999999999999Banner",
+    "applovinInterstitial": "88888888888Inter",
+    "ApplovinNative": "77777777777777Native"
   }
 }
