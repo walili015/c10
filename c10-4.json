@@ -1,0 +1,10 @@
+{
+  "AdsController": {
+    "adNetwork": "ironsource",
+	"isAppId": "19cd88085",
+    "admobInterstitial": "",
+    "AdmobNative": "",
+    "applovinInterstitial": "",
+    "ApplovinNative": ""
+  }
+}
